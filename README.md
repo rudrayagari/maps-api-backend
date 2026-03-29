@@ -21,7 +21,7 @@ Production-oriented Django REST backend for:
 ## Setup
 
 ```bash
-cd /Users/pushkarkrishna/Desktop/maps-api-backend
+cd /Users/sravya/Desktop/maps-api-backend
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.txt
 ```
